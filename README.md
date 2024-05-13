@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlameSpirit
-- 👀 I’m interested in DSP programming and machine learning
-- 🌱 I’m currently learning C++ on Coursera by Yandex (junior lvl)
+- 👀 I’m interested in DSP programming and AV-Control Systems
+- 🌱 I’m currently working with Extron\Crestron\Aten Control Systems
 
 
 <!---
