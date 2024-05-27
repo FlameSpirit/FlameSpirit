@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlameSpirit
 - 👀 I’m interested in DSP programming and AV-Control Systems
-- 🌱 I’m currently working with Extron\Crestron\Aten Control Systems
+- 🌱 I’m currently working with Extron\Crestron\Aten\iRidi Control Systems
 
 
 <!---
